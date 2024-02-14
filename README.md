@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Adversarial Fine-tuning using Generated Respiratory Sound to Address Class Imbalance
 Training Respiratory Sound Classification Model with Adversarial FT
 
@@ -90,3 +91,7 @@ We will provide the AFT pretrained on Mixed500, which has the performance of aro
 
 https://drive.google.com/file/d/15Vfy9RAaAZZTiOEI1mn92qcqE-wn7mm2/view?usp=sharing
 
+=======
+# Patient-Domain-Contrastive
+Patient-Domain-Contrastive
+>>>>>>> 299797cccfebfd596423e0a0f553bc382a91634a
