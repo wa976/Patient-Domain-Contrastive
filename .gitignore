@@ -1,0 +1,13 @@
+save/
+data/
+pretrained_models/
+visualization/
+*.swp
+__pycache__/
+*.pyc
+*.jpg
+*.pth
+*.json
+*.sh
+.ipynb_checkpoints/
+jupyter_notebook/
